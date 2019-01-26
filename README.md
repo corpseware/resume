@@ -1,104 +1,135 @@
-# Jared Blouse
-Austin, TX  (731) 231-7938  jblouse@linux.com
+<h1 id="jaredblouse">Jared Blouse</h1>
 
-**SUMMARY**
+<p>Austin, TX  (731) 231-7938  jblouse@linux.com</p>
 
-- 20+ years of technology experience and expertise in software development
-- AWS Certified DevOps Professional Engineer
-- Excellent knowledge of software project lifecycle and project management
-- Excellent knowledge of the DevOps discipline including implementing automated CI/CD
-- Excellent knowledge of cloud technologies including AWS and Azure
-- Excellent knowledge of container technologies including Docker, K8s, ECS, Swarm
-- Excellent knowledge of software design and architecture (Serverless, Microservice, OO)
-- Excellent ability to meet project deliverables in an efficient and timely manner
-- Excellent knowledge of Test Driven Development including spreading the discipline
-- Strong leadership and managerial abilities including 360-degree leadership
+<p><strong>SUMMARY</strong></p>
 
-**TECHNICAL EXPERIENCE**
+<ul>
+<li>20+ years of technology experience and expertise in software development</li>
 
-_(Including but not limited to)_
+<li>AWS Certified DevOps Professional Engineer</li>
 
-**Cloud Technologies** - AWS, Azure, GCP (Google Cloud Platform)
+<li>Excellent knowledge of software project lifecycle and project management</li>
 
-**Infrastructure as Code** - CloudFormation, Terraform, Cloud Foundry, OpsWorks, Chef, Ansible, DSC, Vagrant, Packer
+<li>Excellent knowledge of the DevOps discipline including implementing automated CI/CD</li>
 
-**Container Technologies** - Docker, ECS, Kubernetes, Swarm, OpenShift, Compose
+<li>Excellent knowledge of cloud technologies including AWS and Azure</li>
 
-**Programming Languages** - Python, Ruby, Go, C#, Java, C++, JavaScript
+<li>Excellent knowledge of container technologies including Docker, K8s, ECS, Swarm</li>
 
-**Database Technologies** - DynamoDB, MongoDB, MSSQL, MySQL, Oracle, Neo4j, Riak, CouchDB, Cassandra, Redis, Memcached, Postgres
+<li>Excellent knowledge of software design and architecture (Serverless, Microservice, OO)</li>
 
-**Big Data** - Kinesis, RedShift, Hadoop, Kafka, Spark, Elasticsearch
+<li>Excellent ability to meet project deliverables in an efficient and timely manner</li>
 
-**Web Frameworks** - Django, Rails, AngularJS, ASP.Net MVC, Node.js, Spring, React, J2EE
+<li>Excellent knowledge of Test Driven Development including spreading the discipline</li>
 
-**Continuous Integration** – Code Pipeline, Code Build, Jenkins, CircleCI, Teamcity, Octopus
+<li>Strong leadership and managerial abilities including 360-degree leadership</li>
+</ul>
 
-**Other** - Serverless, Lambda, Linux Drivers, WDF drivers, Boost, STL, ActiveMQ, RabbitMQ, 0MQ, Apache, NGINX, Tomcat
+<p><strong>TECHNICAL EXPERIENCE</strong></p>
 
-___
-**PROFESSIONAL EXPERIENCE**
+<p><em>(Including but not limited to)</em></p>
 
-**Senior SRE/DevOps Engineer** - Nov. 2018 - Present
+<p><strong>Cloud Technologies</strong> - AWS, Azure, GCP (Google Cloud Platform)</p>
 
-_QuadPay -_ Austin, Texas
+<p><strong>Infrastructure as Code</strong> - CloudFormation, Terraform, Cloud Foundry, OpsWorks, Chef, Ansible, DSC, Vagrant, Packer</p>
 
-- Leading DevOps and SRE disciplines
-- Assisting in the move to containerized blue/green zero downtime deployments using containers, Azure AKS, and kubernetes
-- Assisting the executive leadership team on cost saving and reliability initiatives
-- Helping QuadPay&#39;s architecture and platform teams grow in their respective disciplines
+<p><strong>Container Technologies</strong> - Docker, ECS, Kubernetes, Swarm, OpenShift, Compose</p>
 
-**Senior Site Reliability Engineer** - Nov. 2017 - Nov. 2018
+<p><strong>Programming Languages</strong> - Python, Ruby, Go, C#, Java, C++, JavaScript</p>
 
-_Xero_ - Auckland, New Zealand
+<p><strong>Database Technologies</strong> - DynamoDB, MongoDB, MSSQL, MySQL, Oracle, Neo4j, Riak, CouchDB, Cassandra, Redis, Memcached, Postgres</p>
 
-- Architecting platform products to aid in the reliability of Xero
-- Setting up measurable SLO targets to hold product teams accountable for reliability
-- Designed and developed an internal product named Lighthouse for tracking internal SLOs using a microservice architecture and a react single page front end application
-- Assisting in the move to containerized blue/green zero downtime deployments using containers, AWS ECS, and kubernetes
-- Assisting the executive leadership team on cost saving and reliability initiatives
-- Helping Xero&#39;s architecture and platform teams grow in their respective disciplines
+<p><strong>Big Data</strong> - Kinesis, RedShift, Hadoop, Kafka, Spark, Elasticsearch</p>
 
-**CEO/Founder** - Sept. 2011 – Present
+<p><strong>Web Frameworks</strong> - Django, Rails, AngularJS, ASP.Net MVC, Node.js, Spring, React, J2EE</p>
 
-_Corpseware Inc._ - Round Rock, Texas
+<p><strong>Continuous Integration</strong> – Code Pipeline, Code Build, Jenkins, CircleCI, Teamcity, Octopus</p>
 
-- Provide DevOps coaching including designing and building CI/CD automation pipelines
-- Assist companies in moving to AWS and other cloud providers with a strong focus on containerization
-- Assist companies with the architecture, design, and development of custom software
-- Developing modern artificial intelligence products
+<p><strong>Other</strong> - Serverless, Lambda, Linux Drivers, WDF drivers, Boost, STL, ActiveMQ, RabbitMQ, 0MQ, Apache, NGINX, Tomcat</p>
 
-**OTHER TITLES HELD**
+<hr />
 
-**Senior DevOps Engineer** at _Micron_
+<p><strong>PROFESSIONAL EXPERIENCE</strong></p>
 
-**Senior DevOps Engineer** at _CA Technologies_
+<p><strong>Senior SRE/DevOps Engineer</strong> - Nov. 2018 - Present</p>
 
-**Senior DevOps Engineer** at _NCL_
+<p><em>QuadPay -</em> Austin, Texas</p>
 
-**Senior Software Engineer** at _KLA - Tencor_
+<ul>
+<li>Leading DevOps and SRE disciplines</li>
 
-**Senior Software Engineer** at _Rackspace_
+<li>Assisting in the move to containerized blue/green zero downtime deployments using containers, Azure AKS, and kubernetes</li>
 
-**Senior Development Manager** at _Flow Automotive_
+<li>Assisting the executive leadership team on cost saving and reliability initiatives</li>
 
-**Senior Software Engineer** at _Tactara_
+<li>Helping QuadPay&#39;s architecture and platform teams grow in their respective disciplines</li>
+</ul>
 
-**Senior Software Engineer** at _Volvo Telematics Group_
+<p><strong>Senior Site Reliability Engineer</strong> - Nov. 2017 - Nov. 2018</p>
 
-**Lead Software Designer &amp; Senior Software Engineer** at _Philips Medical Systems_
+<p><em>Xero</em> - Auckland, New Zealand</p>
 
-**C#.Net Developer** at _Regional Income Tax Agency_
+<ul>
+<li>Architecting platform products to aid in the reliability of Xero</li>
 
-**Contracted Solutions Developer** at _Ajilon Consulting_
+<li>Setting up measurable SLO targets to hold product teams accountable for reliability</li>
 
-**Contracted Software Developer** at _Trisoft Innovations_
+<li>Designed and developed an internal product named Lighthouse for tracking internal SLOs using a microservice architecture and a react single page front end application</li>
 
-___
-**EDUCATION**
+<li>Assisting in the move to containerized blue/green zero downtime deployments using containers, AWS ECS, and kubernetes</li>
 
-**Project Management** at _CTU_, CO, BS Degree - 2006
+<li>Assisting the executive leadership team on cost saving and reliability initiatives</li>
 
-**Computer Programming** at _Westervelt College_, ON, Honors Diploma - 2003
+<li>Helping Xero&#39;s architecture and platform teams grow in their respective disciplines</li>
+</ul>
 
-**Electronics &amp; Computer Engineering** at _Thompson Institute_, PA, AS Degree – 1997
+<p><strong>CEO/Founder</strong> - Sept. 2011 – Present</p>
+
+<p><em>Corpseware Inc.</em> - Round Rock, Texas</p>
+
+<ul>
+<li>Provide DevOps coaching including designing and building CI/CD automation pipelines</li>
+
+<li>Assist companies in moving to AWS and other cloud providers with a strong focus on containerization</li>
+
+<li>Assist companies with the architecture, design, and development of custom software</li>
+
+<li>Developing modern artificial intelligence products</li>
+</ul>
+
+<p><strong>OTHER TITLES HELD</strong></p>
+
+<p><strong>Senior DevOps Engineer</strong> at <em>Micron</em></p>
+
+<p><strong>Senior DevOps Engineer</strong> at <em>CA Technologies</em></p>
+
+<p><strong>Senior DevOps Engineer</strong> at <em>NCL</em></p>
+
+<p><strong>Senior Software Engineer</strong> at <em>KLA - Tencor</em></p>
+
+<p><strong>Senior Software Engineer</strong> at <em>Rackspace</em></p>
+
+<p><strong>Senior Development Manager</strong> at <em>Flow Automotive</em></p>
+
+<p><strong>Senior Software Engineer</strong> at <em>Tactara</em></p>
+
+<p><strong>Senior Software Engineer</strong> at <em>Volvo Telematics Group</em></p>
+
+<p><strong>Lead Software Designer &amp; Senior Software Engineer</strong> at <em>Philips Medical Systems</em></p>
+
+<p><strong>C#.Net Developer</strong> at <em>Regional Income Tax Agency</em></p>
+
+<p><strong>Contracted Solutions Developer</strong> at <em>Ajilon Consulting</em></p>
+
+<p><strong>Contracted Software Developer</strong> at <em>Trisoft Innovations</em></p>
+
+<hr />
+
+<p><strong>EDUCATION</strong></p>
+
+<p><strong>Project Management</strong> at <em>CTU</em>, CO, BS Degree - 2006</p>
+
+<p><strong>Computer Programming</strong> at <em>Westervelt College</em>, ON, Honors Diploma - 2003</p>
+
+<p><strong>Electronics &amp; Computer Engineering</strong> at <em>Thompson Institute</em>, PA, AS Degree – 1997</p>
