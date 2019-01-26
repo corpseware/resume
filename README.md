@@ -1,3 +1,5 @@
+# Jared Blouse
+
 SUMMARY
 20+ years of technology experience and expertise in software development 
 AWS Certified DevOps Professional Engineer
