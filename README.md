@@ -1,4 +1,5 @@
 # Jared Blouse
+Austin, TX  (731) 231-7938  jblouse@linux.com
 
 **SUMMARY**
 
@@ -35,7 +36,8 @@ _(Including but not limited to)_
 
 **Other** - Serverless, Lambda, Linux Drivers, WDF drivers, Boost, STL, ActiveMQ, RabbitMQ, 0MQ, Apache, NGINX, Tomcat
 
-_ _ **PROFESSIONAL EXPERIENCE**
+___
+**PROFESSIONAL EXPERIENCE**
 
 **Senior SRE/DevOps Engineer** - Nov. 2018 - Present
 
@@ -66,7 +68,7 @@ _Corpseware Inc._ - Round Rock, Texas
 - Assist companies with the architecture, design, and development of custom software
 - Developing modern artificial intelligence products
 
-_ _ **OTHER TITLES HELD** _ _
+**OTHER TITLES HELD**
 
 **Senior DevOps Engineer** at _Micron_
 
@@ -92,6 +94,7 @@ _ _ **OTHER TITLES HELD** _ _
 
 **Contracted Software Developer** at _Trisoft Innovations_
 
+___
 **EDUCATION**
 
 **Project Management** at _CTU_, CO, BS Degree - 2006
