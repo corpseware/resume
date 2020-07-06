@@ -1,6 +1,6 @@
 <h1 id="jaredblouse">Jared Blouse</h1>
 
-<p>Austin, TX  (731) 231-7938  jblouse@linux.com</p>
+<p>Austin, TX - jblouse@linux.com</p>
 
 <p><strong>SUMMARY</strong></p>
 
@@ -51,19 +51,30 @@
 <hr />
 
 <p><strong>PROFESSIONAL EXPERIENCE</strong></p>
+<p><strong>Senior SRE/DevOps Engineer</strong> - Jul. 2019 - Present</p>
 
-<p><strong>Senior SRE/DevOps Engineer</strong> - Nov. 2018 - Present</p>
-
-<p><em>QuadPay -</em> Austin, Texas</p>
+<p><em>Mastercard -</em> Austin, Texas</p>
 
 <ul>
 <li>Leading DevOps and SRE disciplines</li>
 
-<li>Assisting in the move to containerized blue/green zero downtime deployments using containers, Azure AKS, and kubernetes</li>
+<li>Assisting in the move to the AWS cloud</li>
 
-<li>Assisting the executive leadership team on cost saving and reliability initiatives</li>
+<li>Assisting in the move to containerized blue/green zero downtime deployments using containers, AWS EKS, and kubernetes</li>
 
-<li>Helping QuadPay&#39;s architecture and platform teams grow in their respective disciplines</li>
+</ul>
+<p><strong>Senior SRE/DevOps Engineer</strong> - Nov. 2018 - Jul. 2019</p>
+
+<p><em>QuadPay -</em> Austin, Texas</p>
+
+<ul>
+<li>Lead DevOps and SRE disciplines</li>
+
+<li>Assisted in the move to containerized blue/green zero downtime deployments using containers, Azure AKS, and kubernetes</li>
+
+<li>Assisted the executive leadership team on cost saving and reliability initiatives</li>
+
+<li>Helped QuadPay&#39;s architecture and platform teams grow in their respective disciplines</li>
 </ul>
 
 <p><strong>Senior Site Reliability Engineer</strong> - Nov. 2017 - Nov. 2018</p>
@@ -71,17 +82,17 @@
 <p><em>Xero</em> - Auckland, New Zealand</p>
 
 <ul>
-<li>Architecting platform products to aid in the reliability of Xero</li>
+<li>Architected platform products to aid in the reliability of Xero</li>
 
-<li>Setting up measurable SLO targets to hold product teams accountable for reliability</li>
+<li>Setup measurable SLO targets to hold product teams accountable for reliability</li>
 
 <li>Designed and developed an internal product named Lighthouse for tracking internal SLOs using a microservice architecture and a react single page front end application</li>
 
-<li>Assisting in the move to containerized blue/green zero downtime deployments using containers, AWS ECS, and kubernetes</li>
+<li>Assisted in the move to containerized blue/green zero downtime deployments using containers, AWS ECS, and kubernetes</li>
 
-<li>Assisting the executive leadership team on cost saving and reliability initiatives</li>
+<li>Assisted the executive leadership team on cost saving and reliability initiatives</li>
 
-<li>Helping Xero&#39;s architecture and platform teams grow in their respective disciplines</li>
+<li>Helped Xero&#39;s architecture and platform teams grow in their respective disciplines</li>
 </ul>
 
 <p><strong>CEO/Founder</strong> - Sept. 2011 – Present</p>
